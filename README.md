@@ -3,7 +3,8 @@
     <div style="display: inline-block;">
         <h2 style="display: inline-block; vertical-align: middle; margin-top: 10;">DOXDOTFUN</h2>
         <p>
-	<em>Lock in stability, unlock creativity with doxdotfun!</em>
+	<em>Kibu Solutions and DoxDotFun: Pioneering On-Chain Security for Solana
+Unmasking rug factories operating on Pump.fun using on-chain data, Arkham Intelligence, Solscan APIs and OSINT.</em>
 </p>
         <p>
 	<img src="https://img.shields.io/github/license/KibuSolutions/doxdotfun?style=default&logo=opensourceinitiative&logoColor=white&color=6da2ff" alt="license">
